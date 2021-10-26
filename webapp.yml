@@ -1,5 +1,5 @@
 ---
-- hosts: client
+- hosts: Deploiement du conteneur
   become: true
   vars_files:
     - files/secrets/credentials.yml
