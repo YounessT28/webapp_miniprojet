@@ -1,4 +1,0 @@
----
-webapp:
-  user: admin
-  file_name: index.html.j2

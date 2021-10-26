@@ -4,4 +4,4 @@
   vars_files:
     - files/secrets/credentials.yml
   roles:
-    - webapp
+    - younesst28.webapp_role
